@@ -1,4 +1,4 @@
-var a = 30;
+var a = 40;
 var b = 20;
 
 console.log(a);

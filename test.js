@@ -4,12 +4,12 @@ var b = 20;
 console.log(a);
 console.log(b);
 console.log(b);
-
+console.log(b);
 test();
 
 function test() {
-  var a = 10;
-  console.log(a);
+var a = 10;
+console.log(a);
 }
 var a;
 console.log(a);
